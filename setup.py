@@ -12,11 +12,11 @@ setuptools.setup(
     description = "qcrandom is a python library which provides easy way to generate random numbers on quantum computers.",
     long_description = long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pk8868/qc-random/",
+    url="https://github.com/pawelk5/qc-random/",
     keywords=["python", "random", "quantum"],
     install_requires=["qiskit"],
     project_urls={
-        "Bug Tracker": "https://github.com/pk8868/qc-random/issues",
+        "Bug Tracker": "https://github.com/pawelk5/qc-random/issues",
     },
     classifiers=[
         "Programming Language :: Python :: 3",
